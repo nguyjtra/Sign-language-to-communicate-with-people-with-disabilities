@@ -1,4 +1,4 @@
-# Sign Language Recognition
+# Sign Language to Communicate with People with Disabilities
 
 This project uses a ResNet50 model to recognize American Sign Language (ASL) characters from a webcam feed.
 
@@ -60,6 +60,3 @@ python run_app.py
 - **Hold hand still for 0.5s**: The application requires the hand to be stable to register a character.
 - **Press 'R'**: Clear the current text.
 - **Press 'Q'**: Quit the application.
-
-<pre><div><div class="language-bash relative overflow-hidden rounded-b border-x border-b border-gray-500/25 bg-ide-editor-background" aria-label="highlighted-code-language-bash"><pre><div class="overflow-x-auto bg-ide-editor-background p-2"><div class="rendered-markdown"><div data-code="id#12"><span><div class="monaco-tokenized-source"><span class="mtk16">python3</span><span class="mtk1"></span><span class="mtk6">-m</span><span class="mtk1"></span><span class="mtk12">pip</span><span class="mtk1"></span><span class="mtk12">install</span><span class="mtk1"></span><span class="mtk6">-r</span><span class="mtk1"></span><span class="mtk12">setup.txt</span></div></span></div></div></div></pre></div></div></pre>
-# Sign-language-to-communicate-with-people-with-disabilities
