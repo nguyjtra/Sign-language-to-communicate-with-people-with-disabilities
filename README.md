@@ -15,17 +15,17 @@ python3 -m pip install -r setup.txt
 
 ## Dataset and Models
 
-You can download the dataset and pre-trained models from the following Google Drive link:
+please download the dataset and pre-trained models from the following Google Drive link:
 [Download Models and Dataset](https://drive.google.com/drive/folders/1IYqvwjuZjqibtFlOR7VUm7OzBLQ-Lxz6?usp=sharing)
 
 ## Presentation
 
-You can view the project presentation here:
+ project presentation :
 [View Presentation](https://docs.google.com/presentation/d/19fm19EvjPBaC-GOkvzxcejNifA9LI9KXStbVtf67ico/edit?usp=sharing)
 
 ## Project Report
 
-You can read the full project report here:
+project report :
 [View Report](https://docs.google.com/document/d/15-RLz2UakyQvDs9GF8MiAFJCB7N3VSllJfNzghdjnIg/edit?tab=t.lhmo94lfmnnj#heading=h.yct7mjd62frj)
 
 ## Directory Structure
