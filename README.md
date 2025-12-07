@@ -20,12 +20,12 @@ please download the dataset and pre-trained models from the following Google Dri
 
 ## Presentation
 
- project presentation :
+Project presentation :
 [View Presentation](https://docs.google.com/presentation/d/19fm19EvjPBaC-GOkvzxcejNifA9LI9KXStbVtf67ico/edit?usp=sharing)
 
 ## Project Report
 
-project report :
+Project report :
 [View Report](https://docs.google.com/document/d/15-RLz2UakyQvDs9GF8MiAFJCB7N3VSllJfNzghdjnIg/edit?tab=t.lhmo94lfmnnj#heading=h.yct7mjd62frj)
 
 ## Directory Structure
