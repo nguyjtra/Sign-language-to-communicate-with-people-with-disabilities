@@ -1,4 +1,3 @@
-# Sign Language to Communicate with People with Disabilities
 
 [![View Presentation](./Screenshot%202026-11-12%20at%2022.22.44.png)](./ECS%20174%20Video%20Presentation.pdf)
 This project uses a ResNet50 model to recognize American Sign Language (ASL) characters from a webcam feed.
