@@ -21,12 +21,12 @@ please download the dataset and pre-trained models from the following Google Dri
 ## Presentation
 
 Project presentation :
-[View Presentation](./ECS 174 Video Presentation.pdf)
+[View Presentation](./ECS%20174%20Video%20Presentation.pdf)
 
 ## Project Report
 
 Project report :
-[View Report](./ECS 174 Final Report.pdf)
+[View Report](./ECS%20174%20Final%20Report.pdf)
 
 ## Directory Structure
 
